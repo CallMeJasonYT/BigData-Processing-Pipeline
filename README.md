@@ -36,4 +36,4 @@ cd BigData-Processing-Pipeline
 - Use the provided Python scripts (producer.py and consumer.py) to send data to Kafka.
 - Process the data using Spark streaming, by running spark.py and save results in MongoDB.
 - Query the data using MongoDB to extract meaningful insights, by running mongoQueries.py.
-- 
+
